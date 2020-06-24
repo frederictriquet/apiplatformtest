@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "threat model title"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "fred"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
